@@ -6,7 +6,7 @@ Vi har gått igenom:
 + Hur man installerar Git på er dator. [Download link](https://git-scm.com/downloads)
 + Hur man navigerar i bash terminalen [Cheat Sheet](https://cheatography.com/kyngo/cheat-sheets/command-line-and-terminal-navigation/)
 + Hur man skriver, sparar och avslutar VIM [Cheat Sheet](https://vim.rtorr.com/)
-+ Introduktion till Github [See Linnk](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) (**OBS**: Om ni ska följa denna behöver ni vara utloggade)
++ Introduktion till Github [See Link](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) (**OBS**: Om ni ska följa denna behöver ni vara utloggade)
 
 
 # Pass 2
